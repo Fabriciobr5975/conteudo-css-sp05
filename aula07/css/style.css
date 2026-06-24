@@ -29,3 +29,27 @@ body {
 .p-em-ex3 {
   font-size: 1.88em;
 }
+
+/* ---------------------- */
+
+.p-rem-ex1 {
+  font-size: 1.25rem;
+}
+
+.p-rem-ex2 {
+  font-size: 1.56rem;
+}
+
+.p-rem-ex3 {
+  font-size: 1.88rem;
+}
+
+/* ---------------------- */
+
+.h3-vw {
+  font-size: 10vw;
+}
+
+.p-vw {
+  font-size: 5vw;
+}
