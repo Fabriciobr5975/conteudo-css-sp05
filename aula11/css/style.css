@@ -1,0 +1,24 @@
+body {
+  background-color: azure;
+  font-family: sans-serif;
+}
+
+.ex1 {
+  background-color: aquamarine;
+  display: grid;
+  padding: 10px;
+  grid-template-areas: "item item item item item";
+  justify-content: center;
+  gap: 20px;
+}
+
+.ex1 div {
+  background-color: aliceblue;
+  padding: 10px 52px;
+  border: 4px solid black;
+  text-align: center;
+}
+
+.ex1-item1 {
+    grid-area: item;
+}
